@@ -1,4 +1,4 @@
-# ParallelProgramming_ways
+# Parallellization-with-OpenMP-Framework
 This is a project I created for my Parallel Programming course.
 The project examines 4 schedules of parallelization and their speed perforfance for a non-distributed workload with the OpenMP Framework and C++ as the programming language.
 I executed it in Virtual Box (Ubuntu 18.04.02).
